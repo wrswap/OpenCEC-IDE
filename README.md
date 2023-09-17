@@ -29,10 +29,10 @@ Visual Studio Code 很好，但是感觉不如源(码)神
 <img src="https://github.com/qian-o/OpenCEC-IDE/assets/84434846/0e7e2c75-74c6-4ef5-8f54-1fa9dfefc69c" width="5%">
 
 2. 支持嘉然今天吃什么：https://space.bilibili.com/672328094
-<img src="https://github.com/qian-o/OpenCEC-IDE/assets/84434846/faf3ee5b-ebcf-4695-90e2-3584bbc3cbeb" width="5%">
+<img src="https://i2.hdslb.com/bfs/face/619f378852ebac9fdf87e20418d6f99bfa750c7f.jpg" width="5%">
 
 3. 支持東雪蓮Official：https://space.bilibili.com/1437582453
-<img src="https://cdn-community.codemao.cn/47/community/d2ViXzMwMDFfNDM4NDAzXzBfMTY5Mjk0MTkzNzY4MV9lZjJhZjY3OA.png" width="5%">
+<img src="https://i0.hdslb.com/bfs/face/966238addedadddac5533ac989d4c0a6f56601b9.jpg" width="5%">
 
 4. 支持黎歌Neeko：https://space.bilibili.com/671538942
 <img src="https://i0.hdslb.com/bfs/face/fceb6d5a32d8de358fe5c1688982061684b590f4.jpg" width="5%">
